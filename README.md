@@ -1,5 +1,4 @@
 # land
-test github
 作为public 类应该和文件名一致 源文件中公关类名要与文件名相同
 
 why system.out？ 
