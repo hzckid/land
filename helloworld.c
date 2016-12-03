@@ -3,4 +3,4 @@ void main()
 {
   printf("helloworld!");
 }
-:smile:
+
